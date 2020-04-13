@@ -1,0 +1,12 @@
+{
+    "name": "gael/twig-quest",
+    "authors": [
+        {
+            "name": "galgros",
+            "email": "galgros@yahoo.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
